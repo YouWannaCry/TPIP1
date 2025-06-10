@@ -35,3 +35,5 @@ javac Main.java && java Main
 # JavaScript
 node main.js
 ```
+
+Link al video: https://youtu.be/WdOrvWFtxyM
