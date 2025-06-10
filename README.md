@@ -1,4 +1,5 @@
 # TPIP1
+El grupo esta armado por Jacinto, Gastón y Egea, Rodrigo
 
 # Proyecto de benchmarking de complejidad algorítmica
 
